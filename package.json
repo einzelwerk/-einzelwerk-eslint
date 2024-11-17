@@ -1,0 +1,26 @@
+{
+	"name": "@einzelwerk/eslint",
+	"private": false,
+	"version": "0.0.1",
+	"description": "eslint next.js/react configuration for Einzelwerk team",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"eslint": "^9.15.0"
+	},
+	"dependencies": {
+		"@antfu/eslint-config": "^3.9.1",
+		"@next/eslint-plugin-next": "^15.0.3",
+		"@types/eslint": "^9.6.1",
+		"eslint-plugin-react": "^7.37.2"
+	},
+	"peerDependencies": {
+		"eslint": "^9.15.0",
+		"eslint-plugin-react": "^7.37.2",
+		"@next/eslint-plugin-next": "^15.0.3"
+	}
+}
