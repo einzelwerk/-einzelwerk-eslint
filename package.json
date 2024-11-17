@@ -7,7 +7,7 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "",
+	"author": "poylar",
 	"license": "ISC",
 	"devDependencies": {
 		"eslint": "^9.15.0"
@@ -22,5 +22,13 @@
 		"eslint": "^9.15.0",
 		"eslint-plugin-react": "^7.37.2",
 		"@next/eslint-plugin-next": "^15.0.3"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/einzelwerk/-einzelwerk-eslint.git"
+	},
+	"bugs": {
+		"url": "https://github.com/einzelwerk/-einzelwerk-eslint/issues"
+	},
+	"homepage": "https://github.com/einzelwerk/-einzelwerk-eslint#readme"
 }
